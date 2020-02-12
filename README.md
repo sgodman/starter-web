@@ -8,3 +8,6 @@ This is a simple file for showing version history
 Just get on with it
 
 OK this is the final version. I am bored now
+## copyright
+This fileis copyright
+and should not be copied
